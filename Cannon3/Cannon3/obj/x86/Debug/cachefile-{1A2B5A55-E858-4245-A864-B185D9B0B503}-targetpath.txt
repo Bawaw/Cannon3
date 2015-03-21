@@ -1,0 +1,5 @@
+Content\Textures\lives.xnb
+Content\Textures\player.xnb
+Content\Textures\projectile.xnb
+Content\Textures\target.xnb
+Content\Textures\title_screen.xnb
